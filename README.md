@@ -74,7 +74,7 @@ This repository contains a collection of Java-based projects, each with its own 
 
 36. **TriangleMaker**: Generates and manipulates triangles with different properties.
 
-37. **VectorMath**: Perform vector operations such as addition, subtraction, and dot products.
+37. **VectorMath**: Perform vector operations such as addition and subtraction.
 
 38. **VehicleFleet**: Manage a fleet of vehicles with different types and characteristics.
 
